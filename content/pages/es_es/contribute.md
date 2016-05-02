@@ -1,26 +1,23 @@
-Title: Contribute
+Title: Colaborar
 Slug: 50-contribute
 Lang: en
-Author: Guillaume Savaton
+Author: Santiago Rodríguez
 
-Even if you are not a programmer, there are several ways you can contribute to Sozi:
+Incluso si no eres un programador, hay varias formas de colaborar con Sozi:
 
-* [Translate the user interface of the editor to your native language](|filename|translate-editor.md)
-* [Translate the web site to your native language](|filename|translate-web-site.md)
+* [Traducir el interfaz de usuario del editor a tu propio idioma](|filename|translate-editor.md)
+* [Traducir el sitio web a tu propio idioma](|filename|translate-web-site.md)
 
-List of contributors
---------------------
+Lista de colaboradores
+-----------------------
 
-Sozi is mainly developed by [one person](http://guillaume.baierouge.fr)
-with the help of many regular or occasional contributors.
-There is currently no development team per se.
+Sozi está desarrollado principalmente por [una persona](http://guillaume.baierouge.fr)
+con ayuda de muchos colaboradores habituales u ocasionales.
+No hay un equipo de desarrollo establecido.
 
-The following list mentions the people that have participated in the development of Sozi
-in different ways: development of the software itself or additional tools, patches,
-translation of the software or the web site, documentation, promotion of Sozi.
+La siguiente lista incluye a personas que han participado en el desarrollo de Sozi de diferentesmaneras: desarrollo del software, propiamente dicho, o herramientas adicionales, parches, traducción del software o del sitio web, documentación, promoción de sozi.
 
-If your name has been omitted, or if you do not wish your name to appear in this list,
-please contact us.
+Si tu nombre ha sido omitido, o si no quieres que tu nombre aparezca en esta lista, por favor ponte en contacto con nosotros.
 
 [Olivier Banus](https://launchpad.net/~sunab),
 [Quentin Bérard](https://github.com/quent57),
