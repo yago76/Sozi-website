@@ -1,84 +1,84 @@
-Title: Play
+Title: Reproducir
 Slug: 40-play
-Lang: en
-Author: Guillaume Savaton
+Lang: es
+Author: Santiago Rodríguez
 
-Moving through the presentation
--------------------------------
+Moverse por la presentación
+---------------------------
 
 <table>
     <tr>
         <th></th>
-        <th>Next frame</th>
-        <th>Previous frame</th>
-        <th>First frame</th>
-        <th>Last frame</th>
-        <th>Frame list</th>
+        <th>Siguiente fotograma</th>
+        <th>Fotograma anterior</th>
+        <th>Primer fotograma</th>
+        <th>Último fotograma</th>
+        <th>Lista de fotogramas</th>
     </tr>
     <tr>
-        <th>Mouse</th>
-        <td>Left click</td>
-        <td>Right click</td>
+        <th>Ratón</th>
+        <td>Clic izquierdo</td>
+        <td>Clic derecho</td>
         <td></td>
         <td></td>
-        <td>Middle click</td>
+        <td>Clic botón central</td>
     </tr>
     <tr>
-        <th rowspan="5">Keyboard</th>
-        <td>Right arrow</td>
-        <td>Left arrow</td>
-        <td rowspan="5">Home</td>
-        <td rowspan="5">End</td>
+        <th rowspan="5">Teclado</th>
+        <td>Fecha derecha</td>
+        <td>Flecha izquierda</td>
+        <td rowspan="5">Inicio</td>
+        <td rowspan="5">Fin</td>
         <td rowspan="5">t, T</td>
     </tr>
     <tr>
-        <td>Down arrow</td>
-        <td>Up arrow</td>
+        <td>Flecha abajo</td>
+        <td>Flecha arriba</td>
     </tr>
     <tr>
-        <td>Page down</td>
-        <td>Page up</td>
+        <td>Av Pág</td>
+        <td>Re Pág</td>
     </tr>
     <tr>
         <td>Enter</td>
         <td></td>
     </tr>
     <tr>
-        <td>Space</td>
+        <td>Espacio</td>
         <td></td>
     </tr>
 </table>
 
-When using the keyboard to navigate through the presentation, you can
-hold the `Shift` key to jump to the destination frame with no transition animation.
+Cuando se utiliza el teclado para navegar por la presentación, se puede
+mantener pulsada la tecla `Mayúsculas` (Shift) para saltar al fotograma de destino sin transición animada.
 
-Direct actions on the canvas
-----------------------------
+Acciones directas en el lienzo
+------------------------------
 
 <table>
     <tr>
         <th></th>
-        <th>Move</th>
-        <th>Zoom in / out</th>
-        <th>Rotate left / right</th>
+        <th>Mover</th>
+        <th>Aumentar / disminuir zoom</th>
+        <th>Rotar izquierda / derecha</th>
     </tr>
     <tr>
-        <th>Mouse</th>
-        <td>Drag with left button</td>
-        <td>Mouse wheel forward / backward</td>
-        <td>Shift + Mouse wheel forward / backward</td>
+        <th>Ratón</th>
+        <td>Arrastrar con el botón izquerdo</td>
+        <td>Rueda del ratón hacia delante / hacia atrás</td>
+        <td>Mayúsculas (Shift) + Rueda del ratón hacia delante / hacia atrás</td>
     </tr>
     <tr>
-        <th>Keyboard</th>
+        <th>Teclado</th>
         <td></td>
         <td>+ / -</td>
         <td>r / R</td>
     </tr>
 </table>
 
-Getting help and reporting issues
----------------------------------
+Obtener ayuda y notificar incidencias
+-------------------------------------
 
-* [Frequently Asked Questions and Troubleshooting](|filename|faq.md)
-* [Join the Sozi users discussion group](http://groups.google.com/group/sozi-users)
-* [Report issues and propose new features](http://github.com/senshu/Sozi/issues)
+* [FAQ (Preguntas frecuentes) y Resolución de problemas](|filename|faq.md)
+* [Unirse al grupo de discusión de usuarios de Sozi](http://groups.google.com/group/sozi-users)
+* [Notificar incidencias y proponer nuevas características](http://github.com/senshu/Sozi/issues)
